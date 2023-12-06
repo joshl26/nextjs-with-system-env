@@ -1,4 +1,5 @@
 {
+  "homepage": "/cloudinary",
   "name": "next-with-system-env",
   "private": true,
   "scripts": {
