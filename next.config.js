@@ -1,4 +1,5 @@
 module.exports = {
+  basePath: "/cloudinary",
   reactStrictMode: true,
   publicRuntimeConfig: {
     app: {
