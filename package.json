@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start-windows": "set PORT=3052 && next start",
+    "start": "export PORT=3053 && next start",
     "lint": "next lint"
   },
   "dependencies": {
